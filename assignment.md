@@ -1,26 +1,28 @@
 <h1 align="center">Welcome to readme-md-generator 👋</h1>
 <p>
-<a href="<%= projectDocumentationUrl %>" target="version">
-    <img alt="Documentation" src="https://img.shields.io/badge/version->=0.5.0-darkblue.svg" />
+<a href="version url">
+    <img alt="Version" src="https://img.shields.io/badge/version->=0.5.0-darkblue.svg" />
   </a>
-<a href="<%= projectDocumentationUrl %>" target="npm">
-    <img alt="Documentation" src="https://img.shields.io/badge/npm->=5.5.0-darkblue.svg" />
+<a href="npm url">
+    <img alt="NPM" src="https://img.shields.io/badge/npm->=5.5.0-darkblue.svg" />
   </a>
-<a href="<%= projectDocumentationUrl %>" target="node">
-    <img alt="Documentation" src="https://img.shields.io/badge/node->=9.3.0-darkblue.svg" />
+<a href="node url">
+    <img alt="Node" src="https://img.shields.io/badge/node->=9.3.0-darkblue.svg" />
   </a>
-  <a href="<%= projectDocumentationUrl %>" target="_blank">
+  <a href="Documentation url" >
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
-  <a href="<%= repositoryUrl %>/graphs/commit-activity" target="_blank">
-    <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
+  <a href="Maintained">
+    <img alt="Maintained" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
   </a>
-   <a href="<%= repositoryUrl %>/graphs/commit-activity" target="_blank">
+   <a href="Licence">
     <img alt="Licence" src="https://img.shields.io/badge/Licence-MIT-yellow.svg" />
   </a>
-   <a href="https://twitter.com/">
-    <img alt="Twitter: Ajinkya" src="https://img.shields.io/twitter/follow/Ajinkya">
+   <a href="https://www.linkedin.com/in/ajinkya-padule-04b8541a6/">
+    <img alt="LinkedIn: Ajinkya" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin">
   </a>
+
+  
 
 > CLI that generates beautiful README.md files.
 
@@ -47,40 +49,41 @@ npm runstart
 ```
 
 ## Run tests
+---
 
 ```sh
 npm run test
 ```
 
 ## Author
-
+---
 👤 **Ajinkya Padule**
 
 * GitHub: [AjinkyaPersonal](https://github.com/AjinkyaPersonal)
 
-* LinkedIn: [@<%= authorLinkedInUsername %>](https://linkedin.com/in/<%= authorLinkedInUsername %>)
+* LinkedIn: [Ajinkya Padule](https://www.linkedin.com/in/ajinkya-padule-04b8541a6/)
 
 
 ## 🤝 Contributing
-
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page]().
+---
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page]("url").
 
 ## Show your support
-
+---
 Give a ⭐️ if this project helped you!
 
 
-<a href="https://www.patreon.com/<%= authorPatreonUsername %>">
-  <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
+<a>
+  <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="140">
 </a>
 <br><br>
 
 ## 📝 License
+---
+Copyright © 2023 [Ajinkya Padule](https://github.com/AjinkyaPersonal).<br />
 
-Copyright © 2022 [Ajinkya Padule](https://github.com/AjinkyaPersonal).<br />
-
-This project is [MIT](https://github.com/AjinkyaPersonal) licensed.
+This project is [MIT]("url") licensed.
 
 
 ___
-*This README was generated with ❤️ by [readme-md-generator]()*
+*This README was generated with ❤️ by [readme-md-generator]("url")*
