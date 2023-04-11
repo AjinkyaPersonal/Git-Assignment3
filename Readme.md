@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to readme-md-generator 👋</h1>
-<p>
+<p align="center">
 <a href="version url">
     <img alt="Version" src="https://img.shields.io/badge/version->=0.5.0-darkblue.svg" />
   </a>
