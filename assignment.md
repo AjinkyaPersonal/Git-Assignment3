@@ -29,61 +29,67 @@
 ### 🏠 [Homepage](url)
 
 ## Prerequisites
----
+
 
 * npm >= 5.5.0 
 * node >=9.3.0
 
-
+---
 ## Install
---- 
+
 ```sh
 npm install
 ```
-
-## Usage
 ---
+## Usage
 
 ```sh
 npm runstart
 ```
-
-## Run tests
 ---
+    
+## Run tests
 
 ```sh
 npm run test
 ```
+---
 
 ## Author
----
+
 👤 **Ajinkya Padule**
 
 * GitHub: [AjinkyaPersonal](https://github.com/AjinkyaPersonal)
 
 * LinkedIn: [Ajinkya Padule](https://www.linkedin.com/in/ajinkya-padule-04b8541a6/)
-
+    
+---
 
 ## 🤝 Contributing
----
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page]("url").
 
-## Show your support
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page]("url").
+    
 ---
+    
+## Show your support
+
 Give a ⭐️ if this project helped you!
 
 
 <a>
   <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="140">
 </a>
-<br><br>
-
-## 📝 License
+    
 ---
+    
+## 📝 License
+
 Copyright © 2023 [Ajinkya Padule](https://github.com/AjinkyaPersonal).<br />
 
 This project is [MIT]("url") licensed.
+    
+---
 
-
-___
 *This README was generated with ❤️ by [readme-md-generator]("url")*
+    
+---
